@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mochenski
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Electron
-- 💞️ I’m looking to collaborate on JavaScript projects
+- 🌱 I’m currently learning .NET
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me lemochenskif@gmail.com
 
 <!---
