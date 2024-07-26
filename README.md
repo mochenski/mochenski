@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mochenski
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning .NET
+- 🌱 I'm a .NET Developer
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me lemochenskif@gmail.com
 
